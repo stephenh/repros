@@ -1,0 +1,27 @@
+{
+  "name": "repros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenh/repros.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenh/repros/issues"
+  },
+  "homepage": "https://github.com/stephenh/repros#readme",
+  "devDependencies": {
+    "@swc/core": "^1.2.128",
+    "@swc/jest": "^0.2.16",
+    "@types/jest": "^27.4.0",
+    "jest": "^27.4.7",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
